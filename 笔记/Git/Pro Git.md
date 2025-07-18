@@ -279,7 +279,7 @@ git merge branch_else
 ```
 ### 删除分支
 ```bash
-git checkout -d branch_del
+git branch -d branch_del
 ```
 ### 合并冲突
 ![[progit.pdf#page=83]]
