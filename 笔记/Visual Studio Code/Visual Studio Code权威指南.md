@@ -15,6 +15,6 @@
 Alt+鼠标左键
 ## 列选择
 按住Shift+Alt,把光标从左上角拖至右下角
-## Renote-SSH的使用(本人没学会...)
+## Renote-SSH的使用
 Page372 第十二章
 ![[Visual Studio Code 权威指南.pdf#page=394]]
